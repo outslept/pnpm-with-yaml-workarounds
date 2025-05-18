@@ -9,5 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.10.0"
+  "packageManager": "pnpm@10.10.0",
+  "dependencies": {
+    "@pnpm/lockfile.fs": "^1001.1.12",
+    "@pnpm/modules-yaml": "^1000.3.3",
+    "@pnpm/workspace.manifest-writer": "^1000.1.4",
+    "@pnpm/workspace.read-manifest": "^1000.1.5"
+  }
 }
